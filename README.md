@@ -28,7 +28,7 @@ The Color temperature to RGB conversion was performed using this algorithm: http
 ```
 $ python httpserver.py
 ```
-* In f.lux, set the POST URL to the local address for this server (http://127.0.0.1:8000 by default).
+* In f.lux, set the POST URL to the local address for this server (http://127.0.0.1:8001 by default).
 The color temp and brightness from f.lux will be logged in flux.txt.
 
 * Finally, run this command in another terminal
