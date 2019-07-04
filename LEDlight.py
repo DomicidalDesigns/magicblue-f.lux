@@ -5,10 +5,9 @@ from bleak import BleakClient
 from CT2RGB import CT2RGB
 
 temperature=1200
-offset=1000
+offset=1000 #This makes the bulb color temp less than the monitor color temp by this much (more Red; do not exceed 1199)
 
 f=open("flux.txt", "r")
-#print(f.read())
 
 # Loop this
 while True:
@@ -26,16 +25,20 @@ while True:
         else:
             line-=1
 
-    address = "98:7B:F3:68:00:6B"
-    Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb"
-    color_hex=CT2RGB(temperature)
-
+    address = "LED BULB MAC ADDRESS GOES HERE"
+    Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb" #This varies for different smart bulbs
+    color_hex=CT2RGB(temperature) # A function that converts color temp to hexadecimal RGB
+    
+    #bleak stuff
     async def run(address, loop):
         async with BleakClient(address, loop=loop) as client:
-            await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+'fff0aa'),False)
+            #convert hexadecimal to bytes and send to the bulb over bluetooth
+            await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+'fff0aa'),False) 
 
     loop = asyncio.get_event_loop()
     loop.run_until_complete(run(address, loop))
-
+    #prints the bulb's current color temperature
     print("Current CT:",str(temperature)+'K')
-    time.sleep(10)
+    
+    # Waiting helps with connecting to the bulb for some reason
+    time.sleep(20)
