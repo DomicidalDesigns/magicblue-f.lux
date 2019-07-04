@@ -1,0 +1,298 @@
+127.0.0.1 - - [03/Jul/2019 18:14:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Jul/2019 18:15:04] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 18:15:04] "POST /?ct=5200&bri=1.000000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 18:15:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Jul/2019 18:29:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 18:29:52] "POST /?ct=5500&bri=1.000000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 18:47:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 18:47:52] "POST /?ct=4200&bri=1.000000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 19:54:51] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 19:54:51] "POST /?ct=4186&bri=0.997099 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 19:57:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 19:57:47] "POST /?ct=4171&bri=0.994191 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 19:59:55] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 19:59:55] "POST /?ct=4157&bri=0.991262 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:01:38] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:01:38] "POST /?ct=4143&bri=0.988327 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:03:09] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:03:09] "POST /?ct=4129&bri=0.985356 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:04:30] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:04:30] "POST /?ct=4115&bri=0.982383 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:05:44] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:05:44] "POST /?ct=4101&bri=0.979395 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:06:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:06:53] "POST /?ct=4086&bri=0.976375 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:07:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:07:58] "POST /?ct=4072&bri=0.973327 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:08:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:08:59] "POST /?ct=4058&bri=0.970288 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:09:57] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:09:57] "POST /?ct=4044&bri=0.967242 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:10:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:10:53] "POST /?ct=4030&bri=0.964158 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:11:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:11:47] "POST /?ct=4016&bri=0.961055 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:12:40] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:12:40] "POST /?ct=4002&bri=0.957950 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:13:31] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:13:31] "POST /?ct=3988&bri=0.954797 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:14:19] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:14:19] "POST /?ct=3974&bri=0.951670 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:15:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:15:07] "POST /?ct=3960&bri=0.948517 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:15:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:15:54] "POST /?ct=3946&bri=0.945348 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:16:40] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:16:40] "POST /?ct=3932&bri=0.942171 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:17:25] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:17:25] "POST /?ct=3919&bri=0.938994 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:18:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:18:11] "POST /?ct=3905&bri=0.935752 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:18:55] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:18:55] "POST /?ct=3891&bri=0.932522 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:19:39] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:19:39] "POST /?ct=3877&bri=0.929238 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:20:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:20:22] "POST /?ct=3864&bri=0.925978 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:21:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:21:05] "POST /?ct=3850&bri=0.922673 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:21:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:21:47] "POST /?ct=3836&bri=0.919403 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:22:29] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:22:29] "POST /?ct=3823&bri=0.916097 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:23:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:23:11] "POST /?ct=3809&bri=0.912758 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:23:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:23:53] "POST /?ct=3795&bri=0.909389 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:24:35] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:24:35] "POST /?ct=3782&bri=0.905995 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:25:17] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:25:17] "POST /?ct=3768&bri=0.902497 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:25:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:25:59] "POST /?ct=3754&bri=0.899063 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:26:41] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:26:41] "POST /?ct=3741&bri=0.895615 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:27:23] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:27:23] "POST /?ct=3727&bri=0.892158 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:28:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:28:05] "POST /?ct=3714&bri=0.888695 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:28:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:28:47] "POST /?ct=3700&bri=0.885232 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:29:29] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:29:29] "POST /?ct=3687&bri=0.881772 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:30:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:30:11] "POST /?ct=3674&bri=0.878320 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:30:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:30:54] "POST /?ct=3661&bri=0.874799 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:31:37] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:31:37] "POST /?ct=3648&bri=0.871296 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:32:21] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:32:21] "POST /?ct=3634&bri=0.867735 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:33:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:33:05] "POST /?ct=3621&bri=0.864204 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:33:50] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:33:50] "POST /?ct=3608&bri=0.860629 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:34:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:34:36] "POST /?ct=3595&bri=0.857019 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:35:23] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:35:23] "POST /?ct=3582&bri=0.853383 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:36:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:36:11] "POST /?ct=3569&bri=0.849718 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:37:00] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:37:00] "POST /?ct=3556&bri=0.846012 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:37:50] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:37:50] "POST /?ct=3543&bri=0.842251 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:38:41] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:38:41] "POST /?ct=3530&bri=0.838424 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:39:33] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:39:33] "POST /?ct=3518&bri=0.834517 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:40:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:40:26] "POST /?ct=3506&bri=0.830521 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:41:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:41:20] "POST /?ct=3494&bri=0.826427 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:42:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:42:16] "POST /?ct=3482&bri=0.822150 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:43:13] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:43:13] "POST /?ct=3471&bri=0.817760 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:44:12] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:44:12] "POST /?ct=3460&bri=0.813175 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:45:14] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:45:14] "POST /?ct=3450&bri=0.808309 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:46:18] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:46:18] "POST /?ct=3440&bri=0.803237 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:47:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:47:26] "POST /?ct=3430&bri=0.797877 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:48:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:48:36] "POST /?ct=3422&bri=0.792145 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:49:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:49:52] "POST /?ct=3414&bri=0.785955 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:51:15] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:51:15] "POST /?ct=3407&bri=0.779140 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:52:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:52:47] "POST /?ct=3403&bri=0.771524 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:54:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:54:34] "POST /?ct=3400&bri=0.762670 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:56:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:56:28] "POST /?ct=3400&bri=0.752655 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:58:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:58:11] "POST /?ct=3400&bri=0.742580 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 20:59:44] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 20:59:44] "POST /?ct=3400&bri=0.732568 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:01:13] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:01:13] "POST /?ct=3400&bri=0.722533 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:02:35] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:02:35] "POST /?ct=3400&bri=0.712526 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:03:55] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:03:55] "POST /?ct=3400&bri=0.702431 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:05:12] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:05:12] "POST /?ct=3400&bri=0.692339 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:05:50] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:05:50] "POST /?ct=1200&bri=0.687238 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:07:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:07:05] "POST /?ct=1200&bri=0.677104 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:08:17] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:08:17] "POST /?ct=1200&bri=0.667024 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:09:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:09:28] "POST /?ct=1200&bri=0.656920 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:10:31] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:10:31] "POST /?ct=1900&bri=0.647707 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:10:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:10:54] "POST /?ct=2700&bri=0.644380 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:11:15] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:11:15] "POST /?ct=6500&bri=0.641336 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:12:17] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:12:17] "POST /?ct=3850&bri=0.632331 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:12:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:12:27] "POST /?ct=3400&bri=0.630878 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:13:37] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:13:37] "POST /?ct=3400&bri=0.620860 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:13:48] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:13:48] "POST /?ct=1200&bri=0.619267 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:14:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:14:58] "POST /?ct=1200&bri=0.609028 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:15:13] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:15:13] "POST /?ct=1600&bri=0.606879 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:15:38] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:15:38] "POST /?ct=2000&bri=0.603310 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:16:03] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:16:03] "POST /?ct=2600&bri=0.599758 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:16:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:16:24] "POST /?ct=3950&bri=0.596792 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:16:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:16:53] "POST /?ct=9300&bri=0.592723 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:17:48] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:17:48] "POST /?ct=5500&bri=0.585103 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:18:08] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:18:08] "POST /?ct=1200&bri=0.582369 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:19:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:19:24] "POST /?ct=1200&bri=0.572317 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:20:18] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:20:18] "POST /?ct=1650&bri=0.565176 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:20:48] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:20:48] "POST /?ct=2700&bri=0.561375 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:21:17] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:21:17] "POST /?ct=3450&bri=0.557769 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:21:32] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:21:32] "POST /?ct=1604&bri=0.412431 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:22:12] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:22:12] "POST /?ct=2139&bri=0.242543 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:22:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:22:36] "POST /?ct=2124&bri=0.239804 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:22:37] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:22:37] "POST /?ct=2045&bri=0.359762 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:23:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:23:06] "POST /?ct=1329&bri=0.253001 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:23:43] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:23:43] "POST /?ct=1316&bri=0.249256 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:24:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:24:22] "POST /?ct=1303&bri=0.245522 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:25:03] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:25:03] "POST /?ct=1290&bri=0.241832 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:25:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:25:47] "POST /?ct=1278&bri=0.238139 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:26:35] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:26:35] "POST /?ct=1265&bri=0.234423 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:27:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:27:28] "POST /?ct=1252&bri=0.230698 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:28:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:28:16] "POST /?ct=1645&bri=0.282835 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:28:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:28:28] "POST /?ct=3500&bri=0.514722 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:29:10] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:29:10] "POST /?ct=4500&bri=0.511854 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:32:46] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:32:46] "POST /?ct=4500&bri=0.501849 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:42:51] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:42:51] "POST /?ct=1900&bri=0.249555 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:45:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:45:24] "POST /?ct=4450&bri=0.496019 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:45:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:45:59] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:46:02] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:46:02] "POST /?ct=6350&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:48:33] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:48:33] "POST /?ct=7650&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:49:41] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:49:41] "POST /?ct=6500&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:49:44] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:49:44] "POST /?ct=7898&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:49:44] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:49:44] "POST /?ct=1200&bri=0.136345 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:49:51] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:49:51] "POST /?ct=1200&bri=0.149027 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:05] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:08] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:08] "POST /?ct=5409&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:09] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:09] "POST /?ct=1200&bri=0.149027 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:16] "POST /?ct=8727&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:17] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:17] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:19] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:19] "POST /?ct=7187&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:20] "POST /?ct=1230&bri=0.151707 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:24] "POST /?ct=3241&bri=0.333012 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:24] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:27] "POST /?ct=9236&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:28] "POST /?ct=2061&bri=0.228577 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:28] "POST /?ct=1200&bri=0.149027 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:35] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:35] "POST /?ct=2003&bri=0.223157 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:36] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:39] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:39] "POST /?ct=2859&bri=0.300634 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:39] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:39] "POST /?ct=1200&bri=0.149027 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:51] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:51] "POST /?ct=1200&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:50:56] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:50:56] "POST /?ct=1200&bri=0.365017 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:00] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:00] "POST /?ct=2336&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:01] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:03] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:03] "POST /?ct=4403&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:04] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:04] "POST /?ct=1277&bri=0.382113 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:04] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:04] "POST /?ct=1200&bri=0.365017 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:11] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:11] "POST /?ct=2647&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:12] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:12] "POST /?ct=9300&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:14] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:14] "POST /?ct=4256&bri=0.500000 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:15] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:15] "POST /?ct=1267&bri=0.379682 HTTP/1.1" 501 -
+127.0.0.1 - - [03/Jul/2019 21:51:15] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [03/Jul/2019 21:51:15] "POST /?ct=1200&bri=0.365017 HTTP/1.1" 501 -
