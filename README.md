@@ -5,6 +5,7 @@ Made possible thanks to Uri Shaked for reverse engineering the magicblue smartbu
 (https://medium.com/@urish/reverse-engineering-a-bluetooth-lightbulb-56580fcb7546)
 # Before you start
 You will need a bluetooth 4.0 usb adapter, windows 10 / Linux, a magic blue smartbulb, f.lux, Python 3.x, and Bleak.
+
 Find the MAC Address for your smart bulb.
 ## Bleak [https://github.com/hbldh/bleak]
 Documentation: https://bleak.readthedocs.io.
