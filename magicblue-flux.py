@@ -27,7 +27,7 @@ def main():
             else:
                 line-=1
 
-        address = "98:7B:F3:68:00:6B"
+        address = "A1:B2:C3:D4:E5" #Change this to the MAC Address for the magicblue smartbulb
         Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb"
         color_hex=CT2RGB(temperature)
         white='ff'
