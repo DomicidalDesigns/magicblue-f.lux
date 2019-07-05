@@ -1,4 +1,5 @@
-# magicblue-f.lux
+![magicblue-f.lux](./magicblue-flux.png)
+
 A simple python program that uses Bleak to sync your monitor's color temperature (controlled by f.lux) to your magic blue smart bulb.
 Made possible thanks to Uri Shaked for reverse engineering the magicblue smartbulb
 (https://medium.com/@urish/reverse-engineering-a-bluetooth-lightbulb-56580fcb7546)
