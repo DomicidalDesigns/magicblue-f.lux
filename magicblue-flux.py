@@ -39,11 +39,10 @@ def main():
             async def run(address, loop):
                 async with BleakClient(address, loop=loop) as client:
                     await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+white+identifier),False)
-
             loop = asyncio.get_event_loop()
             loop.run_until_complete(run(address, loop))
-        except:
-            continue
+        except Exception as e:
+            print("\n[ERROR]",e,"\n")
         print("Current Color Temp:",str(temperature)+'K')
         print("RGB:",color_hex)
         time.sleep(20)
