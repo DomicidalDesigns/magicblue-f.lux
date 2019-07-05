@@ -27,7 +27,7 @@ def main():
             else:
                 line-=1
 
-        address = "A1:B2:C3:D4:E5" #Change this to the MAC Address for the magicblue smartbulb
+        address = "98:7B:F3:68:00:6B"
         Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb"
         color_hex=CT2RGB(temperature)
         white='ff'
@@ -35,14 +35,15 @@ def main():
         identifier="f0aa"
         if whiteMode:
             identifier="0faa"
+        try:
+            async def run(address, loop):
+                async with BleakClient(address, loop=loop) as client:
+                    await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+white+identifier),False)
 
-        async def run(address, loop):
-            async with BleakClient(address, loop=loop) as client:
-                await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+white+identifier),False)
-
-        loop = asyncio.get_event_loop()
-        loop.run_until_complete(run(address, loop))
-
+            loop = asyncio.get_event_loop()
+            loop.run_until_complete(run(address, loop))
+        except:
+            continue
         print("Current Color Temp:",str(temperature)+'K')
         print("RGB:",color_hex)
         time.sleep(20)
