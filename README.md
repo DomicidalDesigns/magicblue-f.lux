@@ -35,7 +35,7 @@ The color temp and brightness from f.lux will be logged in flux.txt.
 
 * Finally, run this command in another terminal
 ```
-$ python LEDlight.py
+$ python magicblue-flux.py
 ```
 ## Todo
 * make it look good
