@@ -7,7 +7,14 @@ import math
 def main():
     temperature=1200
     offset=1199
-    color_hex_check=""
+
+    address = "98:7B:F3:68:00:6B"
+    Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb"
+
+    white='ff'
+    whiteMode=False
+    identifier="f0aa"
+
     f=open("flux.txt", "r")
     #print(f.read())
 
@@ -26,29 +33,24 @@ def main():
                 break
             else:
                 line-=1
-        address = "98:7B:F3:68:00:6B"
-        Color_Char_UUID = "0000ffe9-0000-1000-8000-00805f9b34fb"
         color_hex=CT2RGB(temperature)
-        if color_hex != color_hex_check:
-            color_hex_check=color_hex
-            white='ff'
-            whiteMode=False
-            identifier="f0aa"
-            if whiteMode:
-                identifier="0faa"
-            try:
-                async def run(address, loop):
-                    async with BleakClient(address, loop=loop) as client:
-                        await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+white+identifier),False)
-                loop = asyncio.get_event_loop()
-                loop.run_until_complete(run(address, loop))
-            except Exception as e:
-                print("\n[ERROR]",e,"\n")
-        else:
-            print("\nNo change in color.")
+        if whiteMode:
+            identifier="0faa"
+        try:
+            async def run(address, loop):
+                async with BleakClient(address, loop=loop) as client:
+                    await client.write_gatt_char(Color_Char_UUID,bytes.fromhex('56'+color_hex+white+identifier),False)
+            loop = asyncio.get_event_loop()
+            loop.run_until_complete(run(address, loop))
+        except Exception as e:
+            print("\n[ERROR]",e,"\n")
         print("Current Color Temp:",str(temperature)+'K')
         print("RGB:",color_hex)
-        time.sleep(20)
+
+        #else:
+            #print("\nNo change in color.")
+        #print(color_hex,color_hex_check)
+        #time.sleep(1)
 
 def CT2RGB(temperature):
     # note: I noticed the blue LED was much brighter than the red and green LEDs
