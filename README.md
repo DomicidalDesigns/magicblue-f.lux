@@ -3,7 +3,7 @@
 A simple python program that uses Bleak to sync your monitor's color temperature (controlled by f.lux) to your magic blue smart bulb.
 Made possible thanks to Uri Shaked for reverse engineering the magicblue smartbulb
 (https://medium.com/@urish/reverse-engineering-a-bluetooth-lightbulb-56580fcb7546)
-# Before you start
+## Before you start
 You will need a bluetooth 4.0 usb adapter, windows 10 / Linux, a magic blue smartbulb, f.lux, Python 3.x, and Bleak.
 
 Find the MAC Address for your smart bulb.
@@ -40,7 +40,7 @@ The color temp and brightness from f.lux will be logged in flux.txt.
 ```
 $ python magicblue-flux.py
 ```
-## Todo
+## To do
 * make it look good
 * rewrite this mess of a code
 * cry, a lot
