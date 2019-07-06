@@ -40,6 +40,12 @@ The color temp and brightness from f.lux will be logged in flux.txt.
 ```
 $ python magicblue-flux.py
 ```
+
+**Alternatively, make and run a batch file:**
+```bat
+start start python ./httpserver.py
+python ./magicblue-flux.py
+```
 ## To do
 * make it look good
 * rewrite this mess of a code
