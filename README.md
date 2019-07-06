@@ -43,7 +43,7 @@ $ python magicblue-flux.py
 
 **Alternatively, make and run a batch file:**
 ```bat
-start start python ./httpserver.py
+start python ./httpserver.py
 python ./magicblue-flux.py
 ```
 ## To do
